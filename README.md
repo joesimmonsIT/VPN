@@ -24,7 +24,8 @@ This tutorial outlines the exploration of multiple and international virtual pri
 - Local IP Address
 - Virtual Machine (Azure) with International VPN
 - Remote Desktop
-- Google Language Display
+- International VPN
+- Google Local Results
 - Proton VPN
 
 <h2>Local IP Address</h2>
