@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/vaaWXxV.png"/>
 </p>
 
 <h1> Exploring Multiple Virtual Private Networks (VPN)</h1>
@@ -27,7 +27,7 @@ This tutorial outlines the exploration of multiple and international virtual pri
 - Google Language Display
 - Proton VPN
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Local IP Address</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
