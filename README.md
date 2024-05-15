@@ -72,7 +72,11 @@ Select the blue "Create" button.
 <img src="https://i.imgur.com/koUP513.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Subscription: Select appropriate subscription if you have more than one subscription. <br /> <br />
+If you only have one subscription skip this step and move on to the next. <br /> <br />
+Resource Group: Select the desired Resource group name, for this tutortial we will be using "VPN". <br /> <br />
+Region: Preferably select an international country you are not currently living in, for this tutorial we will be using "(Asia Pacific) Australia East. <br /> <br />
+Select "Review + Create". <br /> <br />
 </p>
 <br />
 
