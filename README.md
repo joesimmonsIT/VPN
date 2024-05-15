@@ -75,7 +75,7 @@ Select the blue "Create" button.
 Subscription: Select appropriate subscription if you have more than one subscription. <br /> <br />
 If you only have one subscription skip this step and move on to the next. <br /> <br />
 Resource Group: Select the desired Resource group name, for this tutortial we will be using "VPN". <br /> <br />
-Region: Preferably select an international country you are not currently living in, for this tutorial we will be using "(Asia Pacific) Australia East. <br /> <br />
+Region: Preferably select an international country you are not currently living in, for this tutorial we will be using "(Asia Pacific) Australia East". <br /> <br />
 Select "Review + Create". <br /> <br />
 </p>
 <br />
