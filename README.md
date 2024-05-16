@@ -400,6 +400,11 @@ Observe the IP Address from Shinjuku City, Japan based on our Proton VPN IP Conn
 <img src="https://i.imgur.com/2yPZzDe.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a new browser. <br /> <br />
+Go to Google.com. <br /> <br />
+Type "apple" in the search bar. <br /> <br />
+Press Enter. <br /> <br />
+Observe the search results are in Japanese. <br /> <br />
+Congratulations you have completed this tutorial!. <br /> <br />
 </p>
 <br />
