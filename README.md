@@ -117,7 +117,7 @@ Subscription: Select appropriate subscription if you have more than one subscrip
 If you only have one subscription skip this step and move on to the next. <br /> <br />
 Resource Group: Select the desired Resource group name, for this tutorial we will be using "VPN". <br /> <br />
 Virtual machine name: Select the desired Virtual machine name, for this tutorial we will be using "VPN-1". <br /> <br />
-Region: Preferably select an international country you are not currently living in, for this tutorial we will be using "(Asia Pacific) Australia East". <br /> <br />
+Region: Select the desired region, for this tutorial we will be using "(Asia Pacific) Australia East". <br /> <br />
 Availability Zone: Select the desired zone, for this tutorial we will be using "Zone 2". <br /> <br />
 </p>
 <br />
