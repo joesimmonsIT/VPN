@@ -171,7 +171,9 @@ The deployment (creation) of the virtual machine is in process to be completed.
 <img src="https://i.imgur.com/XhK5OVV.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Type "Virtual Machines" in the search bar. <br /> <br />
+Select "Virtual Machines" from the search results. <br /> <br />
 </p>
 <br />
 
