@@ -203,7 +203,11 @@ Select "Connect". <br /> <br />
 <img src="https://i.imgur.com/LVVsrjb.png"/> <img src="https://i.imgur.com/dv5oEiY.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select "more choices". <br /> <br />
+Select "different account". <br /> <br />
+Type Username, for this tutorial we will be using "vpn-travel". <br /> <br />
+Type Password. <br /> <br />
+Select "Ok". <br /> <br />
 </p>
 <br />
 
