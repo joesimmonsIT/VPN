@@ -391,7 +391,8 @@ Connected to Japanese IP Address.
 <img src="https://i.imgur.com/lB4rtKz.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "whatismyipaddress.com". <br /> <br />
+Observe the IP Address from Shinjuku City, Japan based on our Proton VPN IP Connection. <br /> <br />
 </p>
 <br />
 
