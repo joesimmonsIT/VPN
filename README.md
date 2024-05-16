@@ -154,7 +154,8 @@ Select Review + Create to proceed with creating the virtual machine. <br /> <br 
 <img src="https://i.imgur.com/dFd09sQ.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once all the steps have been completed correctly you should receive a green check mark with the words "Validation passed". <br /> <br />
+Select the Create button to proceed. <br /> <br />
 </p>
 <br />
 
