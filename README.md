@@ -244,7 +244,10 @@ Observe the IP Address for Sydney, Australia based on the Region we selected whi
 <img src="https://i.imgur.com/Q7cc5s1.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Google.com. <br /> <br />
+Type "restaurants near me" in the search bar. <br /> <br />
+Press Enter. <br /> <br />
+Observe the local search results since we are using a Sydney IP Address. <br /> <br />
 </p>
 <br />
 
@@ -253,7 +256,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/vOQSC0u.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Google.com. <br /> <br />
+Type "protonvpn" in the search bar. <br /> <br />
+Press "Enter". <br /> <br />
 </p>
 <br />
 
