@@ -54,7 +54,7 @@ Document your local IP Address, City, State, and Country.<br /> <br />
 <img src="https://i.imgur.com/mNCOzfD.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Log in with Azure credentials if you are not already logged in. <br /> <br />
 Select "Resource Groups" icon. <br /> <br />
 </p>
@@ -94,7 +94,7 @@ Select the Create button to proceed. <br /> <br />
 <img src="https://i.imgur.com/XhK5OVV.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Type "Virtual Machines" in the search bar. <br /> <br />
 Select "Virtual Machines" from the search results. <br /> <br />
 </p>
@@ -146,7 +146,7 @@ Confirm Password: Re-enter the password previously created. <br /> <br />
 </p>
 <p>
 Acknowledge the Licensing Confirmation by check the box, it should turn blue. <br /> <br />
-Select Review + Create to proceed with creating the virtual machine. <br /> <br />
+Select "Review + Create" to proceed with creating the virtual machine. <br /> <br />
 </p>
 <br />
 
@@ -155,7 +155,7 @@ Select Review + Create to proceed with creating the virtual machine. <br /> <br 
 </p>
 <p>
 Once all the steps have been completed correctly you should receive a green check mark with the words "Validation passed". <br /> <br />
-Select the Create button to proceed. <br /> <br />
+Select the "Create" button to proceed. <br /> <br />
 </p>
 <br />
 
@@ -171,7 +171,7 @@ The deployment (creation) of the virtual machine is in process to be completed.
 <img src="https://i.imgur.com/XhK5OVV.png"/>
 </p>
 <p>
-Go to Azure Portal (Portal.Azure.com). <br /> <br />
+Go to Azure Portal "(Portal.Azure.com)". <br /> <br />
 Type "Virtual Machines" in the search bar. <br /> <br />
 Select "Virtual Machines" from the search results. <br /> <br />
 </p>
@@ -193,7 +193,7 @@ Select "VPN-1".
 Copy Public IP Address. <br /> <br />
 Go to the Windows Pane. <br /> <br />
 Type "Remote Desktop Connection" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Paste Public IP Address. <br /> <br />
 Select "Connect". <br /> <br />
 </p>
@@ -234,7 +234,7 @@ Successfully connected to Remote Desktop Connection.
 <p>
 Open a new browser. <br /> <br />
 Type "whatismyipaddress.com". <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Observe the IP Address for Sydney, Australia based on the Region we selected while creating the virtual machine. <br /> <br />
 </p>
 <br />
@@ -244,9 +244,9 @@ Observe the IP Address for Sydney, Australia based on the Region we selected whi
 <img src="https://i.imgur.com/Q7cc5s1.png"/>
 </p>
 <p>
-Go to Google.com. <br /> <br />
+Go to "Google.com". <br /> <br />
 Type "restaurants near me" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Observe the local search results since we are using a Sydney IP Address. <br /> <br />
 </p>
 <br />
@@ -256,7 +256,7 @@ Observe the local search results since we are using a Sydney IP Address. <br /> 
 <img src="https://i.imgur.com/vOQSC0u.png"/>
 </p>
 <p>
-Go to Google.com. <br /> <br />
+Go to "Google.com". <br /> <br />
 Type "protonvpn" in the search bar. <br /> <br />
 Press "Enter". <br /> <br />
 </p>
@@ -292,7 +292,7 @@ Select "Downloads". <br /> <br />
 <img src="https://i.imgur.com/OCamw9Q.png"/>
 </p>
 <p>
-Select the apprioriate download, for this tutorial we will be using "Windows". <br /> <br />
+Select the appropriate download, for this tutorial we will be using "Windows". <br /> <br />
 Select "Download". <br /> <br />
 </p>
 <br />
@@ -401,9 +401,9 @@ Observe the IP Address from Shinjuku City, Japan based on our Proton VPN IP Conn
 </p>
 <p>
 Open a new browser. <br /> <br />
-Go to Google.com. <br /> <br />
+Go to "Google.com". <br /> <br />
 Type "apple" in the search bar. <br /> <br />
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Observe the search results are in Japanese. <br /> <br />
 Congratulations you have completed this tutorial!. <br /> <br />
 </p>
