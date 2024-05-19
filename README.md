@@ -85,7 +85,7 @@ Select "Review + Create". <br /> <br />
 </p>
 <p>
 Once all the steps have been completed correctly you should receive a green check mark with the words "Validation passed". <br /> <br />
-Select the Create button to proceed. <br /> <br />
+Select the "Create" button to proceed. <br /> <br />
 </p>
 <br />
 
